@@ -1,0 +1,510 @@
+[
+    {
+      "id": 0,
+      "title": "Avatar: The Way of Water",
+      "language": "English",
+      "quality": "1080P",
+      "cast": "Sam Worthington, Zoe Saldana",
+      "poster": "https://www.themoviedb.org/t/p/w500/5ScPNT6fHtfYJeWBajZciPV3hEL.jpg",
+      "screenshot": "",
+      "imdbRating": "7.8",
+      "releaseDate": "2022-12-16",
+      "views": 0,
+      "catagory": "Hollywood",
+      "movieLink": [
+        {
+          "index": "480",
+          "url": "https://example.com/avatar480"
+        },
+        {
+          "index": "720",
+          "url": "https://example.com/avatar720"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Black Panther: Wakanda Forever",
+      "language": "English",
+      "quality": "720P",
+      "cast": "Letitia Wright, Angela Bassett",
+      "poster": "https://www.themoviedb.org/t/p/w500/ps2oKfhY6DL3alynlSqY97gHSsg.jpg",
+      "screenshot": "",
+      "imdbRating": "7.2",
+      "releaseDate": "2022-11-11",
+      "views": 0,
+      "catagory": "Hollywood",
+      "movieLink": [
+        {
+          "index": "480",
+          "url": "https://example.com/bp480"
+        },
+        {
+          "index": "720",
+          "url": "https://example.com/bp720"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Spider-Man: No Way Home",
+      "language": "English-Hindi",
+      "quality": "1080P",
+      "cast": "Tom Holland, Zendaya",
+      "poster": "https://www.themoviedb.org/t/p/w500/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg",
+      "screenshot": "",
+      "imdbRating": "8.3",
+      "releaseDate": "2021-12-17",
+      "views": 0,
+      "catagory": "Hollywood",
+      "movieLink": [
+        {
+          "index": "480",
+          "url": "https://example.com/spiderman480"
+        },
+        {
+          "index": "720",
+          "url": "https://example.com/spiderman720"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The Batman",
+      "language": "English",
+      "quality": "1080P",
+      "cast": "Robert Pattinson, Zoë Kravitz",
+      "poster": "https://www.themoviedb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "screenshot": "",
+      "imdbRating": "7.9",
+      "releaseDate": "2022-03-04",
+      "views": 0,
+      "catagory": "Hollywood",
+      "movieLink": [
+        {
+          "index": "480",
+          "url": "https://example.com/batman480"
+        },
+        {
+          "index": "720",
+          "url": "https://example.com/batman720"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Thor: Love and Thunder",
+      "language": "English",
+      "quality": "720P",
+      "cast": "Chris Hemsworth, Natalie Portman",
+      "poster": "https://www.themoviedb.org/t/p/w500/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+      "screenshot": "",
+      "imdbRating": "6.8",
+      "releaseDate": "2022-07-08",
+      "views": 0,
+      "catagory": "Hollywood",
+      "movieLink": [
+        {
+          "index": "480",
+          "url": "https://example.com/thor480"
+        },
+        {
+          "index": "720",
+          "url": "https://example.com/thor720"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "language": "English",
+      "quality": "1080P",
+      "cast": "Benedict Cumberbatch, Elizabeth Olsen",
+      "poster": "https://www.themoviedb.org/t/p/w500/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+      "screenshot": "",
+      "imdbRating": "7.0",
+      "releaseDate": "2022-05-06",
+      "views": 0,
+      "catagory": "Hollywood",
+      "movieLink": [
+        {
+          "index": "480",
+          "url": "https://example.com/doctorstrange480"
+        },
+        {
+          "index": "720",
+          "url": "https://example.com/doctorstrange720"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Top Gun: Maverick",
+      "language": "English",
+      "quality": "1080P",
+      "cast": "Tom Cruise, Miles Teller",
+      "poster": "https://www.themoviedb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+      "screenshot": "",
+      "imdbRating": "8.4",
+      "releaseDate": "2022-05-27",
+      "views": 0,
+      "catagory": "Hollywood",
+      "movieLink": [
+        {
+          "index": "480",
+          "url": "https://example.com/topgun480"
+        },
+        {
+          "index": "720",
+          "url": "https://example.com/topgun720"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "The Flash",
+      "language": "English",
+      "quality": "720P",
+      "cast": "Ezra Miller, Michael Keaton",
+      "poster": "https://image.tmdb.org/t/p/original/4vjKJRcO1LO36JZYMbbjbx421YN.jpg",
+      "screenshot": "",
+      "imdbRating": "6.9",
+      "releaseDate": "2023-06-16",
+      "views": 0,
+      "catagory": "Hollywood",
+      "movieLink": [
+        {
+          "index": "480",
+          "url": "https://example.com/flash480"
+        },
+        {
+          "index": "720",
+          "url": "https://example.com/flash720"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Fast X",
+      "language": "English-Hindi",
+      "quality": "1080P",
+      "cast": "Vin Diesel, Jason Momoa",
+      "poster": "https://www.themoviedb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+      "screenshot": "",
+      "imdbRating": "6.7",
+      "releaseDate": "2023-05-19",
+      "views": 0,
+      "catagory": "Hollywood",
+      "movieLink": [
+        {
+          "index": "480",
+          "url": "https://example.com/fastx480"
+        },
+        {
+          "index": "720",
+          "url": "https://example.com/fastx720"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "language": "English",
+      "quality": "1080P",
+      "cast": "Tom Cruise, Hayley Atwell",
+      "poster": "https://www.themoviedb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+      "screenshot": "",
+      "imdbRating": "8.2",
+      "releaseDate": "2023-07-12",
+      "views": 0,
+      "catagory": "Hollywood",
+      "movieLink": [
+        {
+          "index": "480",
+          "url": "https://example.com/mi480"
+        },
+        {
+          "index": "720",
+          "url": "https://example.com/mi720"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Dune: Part Two",
+      "language": "English",
+      "quality": "1080P",
+      "cast": "Timothée Chalamet, Zendaya",
+      "poster": "https://image.tmdb.org/t/p/original/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "screenshot": "",
+      "imdbRating": "8.5",
+      "releaseDate": "2024-03-15",
+      "views": 0,
+      "catagory": "Hollywood",
+      "movieLink": [
+        {
+          "index": "480",
+          "url": "https://example.com/dune480"
+        },
+        {
+          "index": "720",
+          "url": "https://example.com/dune720"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Guardians of the Galaxy Vol. 3",
+      "language": "English",
+      "quality": "720P",
+      "cast": "Chris Pratt, Zoe Saldana",
+      "poster": "https://image.tmdb.org/t/p/original/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "screenshot": "",
+      "imdbRating": "8.0",
+      "releaseDate": "2023-05-05",
+      "views": 0,
+      "catagory": "Hollywood",
+      "movieLink": [
+        {
+          "index": "480",
+          "url": "https://example.com/gotg480"
+        },
+        {
+          "index": "720",
+          "url": "https://example.com/gotg720"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Oppenheimer",
+      "language": "English",
+      "quality": "1080P",
+      "cast": "Cillian Murphy, Emily Blunt",
+      "poster": "https://upload.wikimedia.org/wikipedia/donate/thumb/5/5b/Oppenheimer_poster.jpg/607px-Oppenheimer_poster.jpg?20240124112620",
+      "screenshot": "",
+      "imdbRating": "8.6",
+      "releaseDate": "2023-07-21",
+      "views": 0,
+      "catagory": "Hollywood",
+      "movieLink": [
+        {
+          "index": "480",
+          "url": "https://example.com/oppenheimer480"
+        },
+        {
+          "index": "720",
+          "url": "https://example.com/oppenheimer720"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Barbie",
+      "language": "English",
+      "quality": "720P",
+      "cast": "Margot Robbie, Ryan Gosling",
+      "poster": "https://image.tmdb.org/t/p/original/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "screenshot": "",
+      "imdbRating": "7.9",
+      "releaseDate": "2023-07-21",
+      "views": 0,
+      "catagory": "Hollywood",
+      "movieLink": [
+        {
+          "index": "480",
+          "url": "https://example.com/barbie480"
+        },
+        {
+          "index": "720",
+          "url": "https://example.com/barbie720"
+        }
+      ]
+    },
+  
+  {
+    "id": 14,
+    "title": "Inception",
+    "language": "English-Hindi",
+    "quality": "1080P",
+    "cast": "ABC Heros",
+    "poster": "https://www.themoviedb.org/t/p/w500/8s4h9friP6Ci3adRGahHARVd76E.jpg",
+    "screenshot": "",
+    "imdbRating": "9.1",
+    "movieLink": "https://techcentry.netlify.app",
+    "releaseDate": "2024-11-17",
+    "views": 7,
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea.",
+    "catagory": "Hollywood"
+  },
+  {
+    "id": 15,
+    "title": "The Dark Knight",
+    "language": "English-Hindi",
+    "quality": "1080P",
+    "cast": "ABC Heros",
+    "poster": "https://www.themoviedb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "screenshot": "",
+    "imdbRating": "8.2",
+    "movieLink": "https://google.com",
+    "releaseDate": "2024-11-01",
+    "views": 8,
+    "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham."
+  },
+  {
+    "id": 16,
+    "title": "The Shawshank Redemption",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "poster": "https://www.themoviedb.org/t/p/w500/5KCVkau1HEl7ZzfPsKAPM0sMiKc.jpg",
+    "views": 0,
+    "language": "English-Hindi",
+    "quality": "1080P",
+    "cast": "Cristofer Nolen",
+    "imdbRating": "7.7",
+    "movieLink": "https://techcentry.netlify.app",
+    "releaseDate": "2024-11-08",
+    "catagory": "Hollywood"
+  },
+  {
+    "id": 17,
+    "title": "Forrest Gump",
+    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal, and other history unfold through the perspective of an Alabama man.",
+    "poster": "https://image.tmdb.org/t/p/original/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+    "views": 0,
+    "language": "English-Hindi",
+    "quality": "1080P",
+    "cast": "Cristofer Nolen",
+    "imdbRating": "8.2",
+    "movieLink": "https://techcentry.netlify.app",
+    "releaseDate": "2024-11-09",
+    "catagory": "Hollywood"
+  },
+  {
+    "id": 18,
+    "title": "The Matrix",
+    "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth.",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
+    "views": 0
+  },
+
+
+
+  
+    {
+      "id": 19,
+      "title": "Pathaan",
+      "language": "Hindi",
+      "quality": "1080P",
+      "cast": "Shah Rukh Khan, Deepika Padukone",
+      "poster": "https://www.tallengestore.com/cdn/shop/products/Pathan-ShahRukhKhan-BollywoodHindiMoviePoster_296b3b5c-b590-4a19-a1db-77e4638531ca.jpg?v=1675251720",
+      "screenshot": "",
+      "imdbRating": "6.8",
+      "releaseDate": "2023-01-25",
+      "views": 0,
+      "catagory": "Bollywood",
+      "movieLink": [
+        {
+          "index": "480",
+          "url": "https://example.com/pathaan480"
+        },
+        {
+          "index": "720",
+          "url": "https://example.com/pathaan720"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Brahmāstra: Part One - Shiva",
+      "language": "Hindi",
+      "quality": "720P",
+      "cast": "Ranbir Kapoor, Alia Bhatt",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnWRcJtXtuqokxZbNvhV0JHeKifYd1QlEhTQ&s",
+      "screenshot": "",
+      "imdbRating": "5.6",
+      "releaseDate": "2022-09-09",
+      "views": 0,
+      "catagory": "Bollywood",
+      "movieLink": [
+        {
+          "index": "480",
+          "url": "https://example.com/brahmastra480"
+        },
+        {
+          "index": "720",
+          "url": "https://example.com/brahmastra720"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "RRR",
+      "language": "Telugu-Hindi",
+      "quality": "1080P",
+      "cast": "N. T. Rama Rao Jr., Ram Charan",
+      "poster": "https://www.themoviedb.org/t/p/w500/wE0I6efAW4cDDmZQWtwZMOW44EJ.jpg",
+      "screenshot": "",
+      "imdbRating": "8.1",
+      "releaseDate": "2022-03-24",
+      "views": 0,
+      "catagory": "Bollywood",
+      "movieLink": [
+        {
+          "index": "480",
+          "url": "https://example.com/rrr480"
+        },
+        {
+          "index": "720",
+          "url": "https://example.com/rrr720"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "K.G.F: Chapter 2",
+      "language": "Kannada-Hindi",
+      "quality": "1080P",
+      "cast": "Yash, Sanjay Dutt",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS2f04PdhZCY1vEw8CRJEkXTGNSV68Gt0tFg&s",
+      "screenshot": "",
+      "imdbRating": "8.3",
+      "releaseDate": "2022-04-14",
+      "views": 0,
+      "catagory": "Bollywood",
+      "movieLink": [
+        {
+          "index": "480",
+          "url": "https://example.com/kgf2-480"
+        },
+        {
+          "index": "720",
+          "url": "https://example.com/kgf2-720"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Drishyam 2",
+      "language": "Hindi",
+      "quality": "720P",
+      "cast": "Ajay Devgn, Tabu",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJJwsaQp1Y3_zlTnTuYc2NTBAGuV6Vy0D0Zg&s",
+      "screenshot": "",
+      "imdbRating": "8.2",
+      "releaseDate": "2022-11-18",
+      "views": 0,
+      "catagory": "Bollywood",
+      "movieLink": [
+        {
+          "index": "480",
+          "url": "https://example.com/drishyam2-480"
+        },
+        {
+          "index": "720",
+          "url": "https://example.com/drishyam2-720"
+        }
+      ]
+    }
+  
+  
+]
