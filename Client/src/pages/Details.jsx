@@ -10,7 +10,7 @@ const Details = ({ movies }) => {
   useEffect(() => {
     const incrementViews = async () => {
       try {
-        await axios.post("http://localhost:5000/increment-views", {
+        await axios.post("https://movie-website-dz9k.onrender.com/increment-views", {
           title: movie.title,
         });
       } catch (error) {

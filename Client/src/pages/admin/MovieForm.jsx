@@ -114,7 +114,7 @@ const MovieForm = ({movies, movie, editingMode, stopRendering}) => {
   };
 
   const publishMovies = () => {
-    fetch("http://localhost:5000/save-movies", {
+    fetch("https://movie-website-dz9k.onrender.com/save-movies", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(newMovies),

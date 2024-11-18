@@ -15,7 +15,7 @@ const [movies, setMovies] = useState([]);
   useEffect(() => {
     const fetchMovies = async () => {
       try {
-        const res = await axios.get("http://localhost:5000/movies");
+        const res = await axios.get("https://movie-website-dz9k.onrender.com/movies");
         const newMovies = res.data; // Get the data from the response
         //setLocalMovies(newMovies); // Set the movies state with the response data
         newMovies.forEach(movie => {
